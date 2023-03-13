@@ -209,7 +209,7 @@ tr {
 }
 
 .unlock_btn {
-  padding: 18px 35px;
+  padding: 18px 30px;
   background-color: #073937;
 }
 
@@ -346,6 +346,11 @@ footer ul li a:hover::after {
 
   .w_100 {
     width: 100%;
+  }
+
+  .unlock_btn {
+    padding: 18px 35px;
+    background-color: #073937;
   }
 }
 
