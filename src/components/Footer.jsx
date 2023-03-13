@@ -16,7 +16,7 @@ const Footer = () => {
                             <p className='text-white fs_sm fw-light ff_opensans mb-0 mt-3'>Unlock exclusive features & receive updates</p>
                             <div className='d-flex align-items-center justify-content-between bg-white w_300 rounded-5 mt-4'>
                                 <input className='fs_sm fw-light ff_opensans clr_darkgreen input-footer ps-3 py-3' type="text" placeholder='Email' />
-                                <a className='btn_hover unlock_btn fs_sm fw-semibold ff_opensans text-white my-1 me-1 rounded-5' href="#">UNLOCK</a>
+                                <a className='btn_hover unlock_btn fs_sm fw-semibold ff_opensans text-white my-1 me-2 rounded-5' href="#">UNLOCK</a>
                             </div>
                         </Col>
                         <Col xs={12} sm={12} lg={7}>
