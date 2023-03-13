@@ -24,12 +24,12 @@ const MyNav = () => {
                         </Nav>
                         <div className='d-sm-flex align-items-center'>
                             <ul className='d-sm-flex p-0 m-0'>
-                                <li className='me-lg-5 my-3 my-lg-0'><a className='position-relative hover_line hover_line_2 fs_md fw-semibold text-white ff_opensans' href="#">LEARN</a></li>
-                                <li className='me-lg-5 my-3 my-lg-0'><a className='position-relative hover_line hover_line_2 fs_md fw-semibold text-white ff_opensans' href="#">LISTINGS</a></li>
-                                <li className='me-lg-5 my-3 my-lg-0'><a className='position-relative hover_line hover_line_2 fs_md fw-semibold text-white ff_opensans' href="#">COMMUNITIES</a></li>
-                                <li className='me-lg-5 my-3 my-lg-0'><a className='position-relative hover_line hover_line_2 fs_md fw-semibold text-white ff_opensans' href="#">CONTACT</a></li>
+                                <li className='me-lg-5 my-3 my-lg-0 mx-3 mx-lg-0'><a className='position-relative hover_line hover_line_2 fs_md fw-semibold text-white ff_opensans' href="#">LEARN</a></li>
+                                <li className='me-lg-5 my-3 my-lg-0 mx-3 mx-lg-0'><a className='position-relative hover_line hover_line_2 fs_md fw-semibold text-white ff_opensans' href="#">LISTINGS</a></li>
+                                <li className='me-lg-5 my-3 my-lg-0 mx-3 mx-lg-0'><a className='position-relative hover_line hover_line_2 fs_md fw-semibold text-white ff_opensans' href="#">COMMUNITIES</a></li>
+                                <li className='me-lg-5 my-3 my-lg-0 mx-3 mx-lg-0'><a className='position-relative hover_line hover_line_2 fs_md fw-semibold text-white ff_opensans' href="#">CONTACT</a></li>
                             </ul>
-                            <div className='me-5 d-none d-sm-block'>
+                            <div className='me-5 d-none d-lg-block'>
                                 <img className='translate_hover crusor_pointer' src={heartImage} alt="heartimage" />
                             </div>
                             <div className='me-5'>
@@ -44,7 +44,7 @@ const MyNav = () => {
                                     </NavDropdown.Item>
                                 </NavDropdown>
                             </div>
-                            <div className='d-none d-sm-block'>
+                            <div className='d-none d-lg-block'>
                                 <span className='menu_icon'></span>
                                 <span className='menu_icon my-1'></span>
                                 <span className='menu_icon'></span>
