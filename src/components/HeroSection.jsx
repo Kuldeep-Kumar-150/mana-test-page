@@ -9,9 +9,6 @@ const HeroSection = () => {
             <section className=''>
                 <div className='pt-5'>
                     <Container className='py-5'>
-                        <div>
-                            <button className='backtotop'>Top</button>
-                        </div>
                         <div className="py-5">
                             <h1 className='fs_58 fw-bold ff_roman text-white text-center'>The modern way to buy and own a second home</h1>
                             <div className='d-flex justify-content-center py-3'>

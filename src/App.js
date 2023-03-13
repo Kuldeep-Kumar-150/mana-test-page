@@ -30,14 +30,3 @@ function App() {
 }
 
 export default App;
-
-// const topBtn = document.querySelector(".backtotop");
-// topBtn.addEventListener("click", function BackToTop() {
-//   document.documentElement.scrollTop = 0
-// })
-
-// window.addEventListener("scroll", function myFun() {
-//   if (document.documentElement.scrollTop > 120) {
-//     topBtn.style.display = "block"
-//   } else { topBtn.style.display = "none" }
-// })
